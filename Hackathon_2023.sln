@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon_2023.Android", "Hackathon_2023.Android\Hackathon_2023.Android.csproj", "{008E314F-E94E-4152-90F3-F8EE5F20B8DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon_2023", "Hackathon_2023\Hackathon_2023.csproj", "{628DBC11-0794-4135-BAFC-D6F2E212EE7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008E314F-E94E-4152-90F3-F8EE5F20B8DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008E314F-E94E-4152-90F3-F8EE5F20B8DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008E314F-E94E-4152-90F3-F8EE5F20B8DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{008E314F-E94E-4152-90F3-F8EE5F20B8DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008E314F-E94E-4152-90F3-F8EE5F20B8DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008E314F-E94E-4152-90F3-F8EE5F20B8DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{628DBC11-0794-4135-BAFC-D6F2E212EE7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628DBC11-0794-4135-BAFC-D6F2E212EE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628DBC11-0794-4135-BAFC-D6F2E212EE7B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{628DBC11-0794-4135-BAFC-D6F2E212EE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628DBC11-0794-4135-BAFC-D6F2E212EE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628DBC11-0794-4135-BAFC-D6F2E212EE7B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F18FD28F-204F-4FE4-8E76-6E17EF37A6D3}
+	EndGlobalSection
+EndGlobal
